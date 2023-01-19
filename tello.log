@@ -1,0 +1,97 @@
+[INFO] tello.py - 122 - Tello instance was initialized. Host: '192.168.10.1'. Port: '8889'.
+[INFO] tello.py - 122 - Tello instance was initialized. Host: '192.168.10.1'. Port: '8889'.
+[INFO] tello.py - 122 - Tello instance was initialized. Host: '192.168.10.1'. Port: '8889'.
+[INFO] tello.py - 437 - Send command: 'command'
+[ERROR] tello.py - 457 - 'utf-8' codec can't decode byte 0xcc in position 0: invalid continuation byte
+[INFO] tello.py - 437 - Send command: 'command'
+[INFO] tello.py - 461 - Response command: 'ok'
+[INFO] tello.py - 437 - Send command: 'streamon'
+[INFO] tello.py - 461 - Response streamon: 'ok'
+[INFO] tello.py - 437 - Send command: 'streamoff'
+[WARNING] tello.py - 447 - Aborting command 'streamoff'. Did not receive a response after 7 seconds
+[INFO] tello.py - 437 - Send command: 'streamoff'
+[WARNING] tello.py - 447 - Aborting command 'streamoff'. Did not receive a response after 7 seconds
+[INFO] tello.py - 437 - Send command: 'streamoff'
+[WARNING] tello.py - 447 - Aborting command 'streamoff'. Did not receive a response after 7 seconds
+[INFO] tello.py - 122 - Tello instance was initialized. Host: '192.168.10.1'. Port: '8889'.
+[INFO] tello.py - 437 - Send command: 'command'
+[WARNING] tello.py - 447 - Aborting command 'command'. Did not receive a response after 7 seconds
+[INFO] tello.py - 437 - Send command: 'command'
+[WARNING] tello.py - 447 - Aborting command 'command'. Did not receive a response after 7 seconds
+[INFO] tello.py - 437 - Send command: 'command'
+[ERROR] tello.py - 457 - 'utf-8' codec can't decode byte 0xcc in position 0: invalid continuation byte
+[INFO] tello.py - 122 - Tello instance was initialized. Host: '192.168.10.1'. Port: '8889'.
+[INFO] tello.py - 437 - Send command: 'command'
+[INFO] tello.py - 461 - Response command: 'ok'
+[INFO] tello.py - 437 - Send command: 'streamon'
+[INFO] tello.py - 461 - Response streamon: 'ok'
+[INFO] tello.py - 437 - Send command: 'streamoff'
+[WARNING] tello.py - 447 - Aborting command 'streamoff'. Did not receive a response after 7 seconds
+[INFO] tello.py - 437 - Send command: 'streamoff'
+[WARNING] tello.py - 447 - Aborting command 'streamoff'. Did not receive a response after 7 seconds
+[INFO] tello.py - 437 - Send command: 'streamoff'
+[WARNING] tello.py - 447 - Aborting command 'streamoff'. Did not receive a response after 7 seconds
+[INFO] tello.py - 122 - Tello instance was initialized. Host: '192.168.10.1'. Port: '8889'.
+[INFO] tello.py - 437 - Send command: 'command'
+[INFO] tello.py - 461 - Response command: 'ok'
+[INFO] tello.py - 437 - Send command: 'streamon'
+[INFO] tello.py - 461 - Response streamon: 'ok'
+[INFO] tello.py - 437 - Send command: 'streamoff'
+[WARNING] tello.py - 447 - Aborting command 'streamoff'. Did not receive a response after 7 seconds
+[INFO] tello.py - 437 - Send command: 'streamoff'
+[WARNING] tello.py - 447 - Aborting command 'streamoff'. Did not receive a response after 7 seconds
+[INFO] tello.py - 437 - Send command: 'streamoff'
+[WARNING] tello.py - 447 - Aborting command 'streamoff'. Did not receive a response after 7 seconds
+[INFO] tello.py - 122 - Tello instance was initialized. Host: '192.168.10.1'. Port: '8889'.
+[INFO] tello.py - 437 - Send command: 'command'
+[ERROR] tello.py - 457 - 'utf-8' codec can't decode byte 0xcc in position 0: invalid continuation byte
+[INFO] tello.py - 437 - Send command: 'command'
+[INFO] tello.py - 461 - Response command: 'ok'
+[INFO] tello.py - 437 - Send command: 'streamon'
+[INFO] tello.py - 461 - Response streamon: 'ok'
+[INFO] tello.py - 437 - Send command: 'streamoff'
+[WARNING] tello.py - 447 - Aborting command 'streamoff'. Did not receive a response after 7 seconds
+[INFO] tello.py - 437 - Send command: 'streamoff'
+[WARNING] tello.py - 447 - Aborting command 'streamoff'. Did not receive a response after 7 seconds
+[INFO] tello.py - 437 - Send command: 'streamoff'
+[WARNING] tello.py - 447 - Aborting command 'streamoff'. Did not receive a response after 7 seconds
+[INFO] tello.py - 122 - Tello instance was initialized. Host: '192.168.10.1'. Port: '8889'.
+[INFO] tello.py - 437 - Send command: 'command'
+[INFO] tello.py - 461 - Response command: 'ok'
+[INFO] tello.py - 437 - Send command: 'streamon'
+[INFO] tello.py - 461 - Response streamon: 'ok'
+[INFO] tello.py - 437 - Send command: 'streamoff'
+[WARNING] tello.py - 447 - Aborting command 'streamoff'. Did not receive a response after 7 seconds
+[INFO] tello.py - 437 - Send command: 'streamoff'
+[INFO] tello.py - 122 - Tello instance was initialized. Host: '192.168.10.1'. Port: '8889'.
+[INFO] tello.py - 437 - Send command: 'command'
+[INFO] tello.py - 461 - Response command: 'ok'
+[INFO] tello.py - 437 - Send command: 'streamon'
+[INFO] tello.py - 461 - Response streamon: 'ok'
+[INFO] tello.py - 437 - Send command: 'streamoff'
+[WARNING] tello.py - 447 - Aborting command 'streamoff'. Did not receive a response after 7 seconds
+[INFO] tello.py - 437 - Send command: 'streamoff'
+[WARNING] tello.py - 447 - Aborting command 'streamoff'. Did not receive a response after 7 seconds
+[INFO] tello.py - 437 - Send command: 'streamoff'
+[WARNING] tello.py - 447 - Aborting command 'streamoff'. Did not receive a response after 7 seconds
+[INFO] tello.py - 122 - Tello instance was initialized. Host: '192.168.10.1'. Port: '8889'.
+[INFO] tello.py - 437 - Send command: 'command'
+[INFO] tello.py - 461 - Response command: 'ok'
+[INFO] tello.py - 437 - Send command: 'streamon'
+[INFO] tello.py - 461 - Response streamon: 'ok'
+[INFO] tello.py - 437 - Send command: 'streamoff'
+[INFO] tello.py - 122 - Tello instance was initialized. Host: '192.168.10.1'. Port: '8889'.
+[INFO] tello.py - 437 - Send command: 'command'
+[INFO] tello.py - 461 - Response command: 'ok'
+[INFO] tello.py - 437 - Send command: 'streamon'
+[INFO] tello.py - 461 - Response streamon: 'ok'
+[INFO] tello.py - 437 - Send command: 'streamoff'
+[WARNING] tello.py - 447 - Aborting command 'streamoff'. Did not receive a response after 7 seconds
+[INFO] tello.py - 437 - Send command: 'streamoff'
+[WARNING] tello.py - 447 - Aborting command 'streamoff'. Did not receive a response after 7 seconds
+[INFO] tello.py - 437 - Send command: 'streamoff'
+[INFO] tello.py - 122 - Tello instance was initialized. Host: '192.168.10.1'. Port: '8889'.
+[INFO] tello.py - 122 - Tello instance was initialized. Host: '192.168.10.1'. Port: '8889'.
+[INFO] tello.py - 122 - Tello instance was initialized. Host: '192.168.10.1'. Port: '8889'.
+[INFO] tello.py - 122 - Tello instance was initialized. Host: '192.168.10.1'. Port: '8889'.
+[INFO] tello.py - 122 - Tello instance was initialized. Host: '192.168.10.1'. Port: '8889'.
